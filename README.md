@@ -70,7 +70,7 @@ This sentiment analysis project uses an LSTM model to classify movie reviews fro
 ├── results/
 │   ├── accuracy_plot.png
 │   ├── loss_plot.png
-│   └── confusion_matrix.png
+│   └── sentiment_distribution.png
 ├── models/
 │   └── sentiment_model.h5
 ├── IMDB Dataset.csv     # Not uploaded — download manually
